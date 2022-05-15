@@ -1,0 +1,19 @@
+dl {
+  border-bottom: 1px solid #eee;
+}
+dl dt{
+  font-size: 20px;
+}
+dl dd {
+  font-size: 12px;
+  color: #aaa
+}
+.ipt {
+  width: 95%;
+  height: 40px;
+  line-height: 40px;
+}
+.top{
+  display: flex;
+  justify-content: space-between;
+}

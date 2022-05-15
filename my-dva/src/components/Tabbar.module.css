@@ -1,0 +1,21 @@
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  line-height: 50px;
+  align-items: center;
+  background-color: white;
+  border-top: 1px solid #eee;
+}
+.footer ul{
+  list-style: none;
+  display: flex;
+}
+.footer ul li {
+  text-align: center;
+  flex: 1;
+}
+.active{
+  color: red;
+}

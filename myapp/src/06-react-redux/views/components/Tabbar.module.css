@@ -1,0 +1,19 @@
+.tabbar{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  background-color: #fff;
+}
+.tabbar ul{
+  display: flex;
+}
+.tabbar ul li {
+  flex: 1;
+  text-align: center;
+  line-height: 40px;
+}
+.lzrActive {
+  color: red;
+}

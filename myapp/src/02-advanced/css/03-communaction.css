@@ -1,0 +1,14 @@
+.filmItem{
+  display: flex;
+}
+.filmItem img{
+  height: 150px;
+}
+.filmDetail {
+  position: fixed;
+  top: 100px;
+  right: 0;
+  width: 200px;
+  min-height: 200px;
+  background-color: #fc0;
+}
